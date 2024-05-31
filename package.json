@@ -6,7 +6,8 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "initial-install": "npm install -g @angular/cli@17.3.8"
   },
   "private": true,
   "dependencies": {
